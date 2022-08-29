@@ -1,5 +1,4 @@
-# 2022 北商暑假研習
-### 用LeetCode學Java
+# 2022 北商暑假研習 - 用LeetCode學Java
 
 ## 解決LeetCode問題的步驟
 ### (1)瞭解問題在問什麼
